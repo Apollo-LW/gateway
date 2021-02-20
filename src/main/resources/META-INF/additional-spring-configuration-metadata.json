@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.gateway.routes",
+      "type": "java.lang.String",
+      "description": "Gateway routes array."
+  }
+] }
