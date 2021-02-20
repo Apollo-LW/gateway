@@ -1,6 +1,7 @@
 server:
   port: 8079
 
+# Gateway routing
 spring:
   cloud:
     gateway:
